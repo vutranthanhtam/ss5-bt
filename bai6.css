@@ -1,0 +1,29 @@
+.bl1{
+    width: 800px;
+    height: 500px;
+    margin-left: 20px;
+}
+.a{
+    width: 330px;
+    height: 30px;
+    margin-right: 23px;
+    margin-bottom: 15px;
+}
+.b{
+    width: 330px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+.c{
+    width: 695px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+.d{
+    margin-top: 15px;
+    background-color: #7CCEFC;
+    color: white;
+    border-radius: 1% solid white;
+    height: 30px;
+    border: 0;
+}
